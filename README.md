@@ -13,4 +13,4 @@ About me
 🎲 Fun fact: I love sharing my knowledge through cybersecurity blogging!
 
 I work with
-wpscan logo  metasploit logo  nessus logo  nmap logo  burp suite logo  aws logo  azure logo 
+wpscan logo  metasploit logo  nessus logo  nmap logo  burp suite logo  aws logo  azure logo

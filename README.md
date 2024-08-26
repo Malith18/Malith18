@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Malith Praveen, and I'm a Cybersecurity Specialist from Sri Lanka.
+My name is Malith Praveen Rajapaksha, and I'm a Cybersecurity Specialist from Sri Lanka.
 
 ## About me
 
